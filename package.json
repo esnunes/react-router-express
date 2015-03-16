@@ -1,6 +1,6 @@
 {
   "name": "react-router-express",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "React Router Express Location - Server Side Rendering (isomorphic)",
   "main": "lib/index.js",
   "scripts": {
