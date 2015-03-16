@@ -1,0 +1,26 @@
+{
+  "name": "react-router-express",
+  "version": "0.0.0",
+  "description": "",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:esnunes/react-router-express.git"
+  },
+  "keywords": [
+    "react-router",
+    "express",
+    "isomorphic",
+    "react",
+    "isomorphism"
+  ],
+  "author": "Eduardo Nunes <esnunes@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/esnunes/react-router-express/issues"
+  },
+  "homepage": "https://github.com/esnunes/react-router-express"
+}
